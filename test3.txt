@@ -1,0 +1,6 @@
+file="lalla.txt"
+i=0
+for val in files
+do
+	echo the first linein $i++ is $val
+done

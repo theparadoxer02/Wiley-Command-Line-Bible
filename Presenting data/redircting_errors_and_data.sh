@@ -1,0 +1,1 @@
+ls -a 1 test test2 ../output.txt 2> stderr.txt 1> stdout.txt
